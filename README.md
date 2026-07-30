@@ -21,7 +21,7 @@ This corpus builds on the [WTO Regional Trade Agreements Information System](htt
 
 ## Structure
 
-XML structure is as follows (example is for [xml/pta_442.xml](https://github.com/mappingtreaties/tota/xml/pta_442.xml)):
+XML structure is as follows (example is for [xml/pta_442.xml](https://github.com/Unity-Legal-Affairs/tota/xml/pta_442.xml)):
 
 ```xml
 <treaty>
@@ -95,12 +95,9 @@ We thank Veronika Zhirnova and Kseniia Tumasova for research assistance and grat
 
 # Contact
 
-Dmitriy Skougarevskiy ([@memoryfull](https://github.com/memoryfull)).
+Dmitriy Skougarevskiy ([@Unity-Legal-Affairs](https://github.com/Unity-Legal-Affairs)).
 
 # Disclaimer
 
-This data may contain errors due to, amongst others, mistakes in the source data, errors induced by the OCR conversion or the manual mark-up of texts. To continuously improve the corpus, we would be grateful, if you could bring any errors you may discover to our attention by [creating an issue](https://github.com/mappingtreaties/tota/issues).
+This data may contain errors due to, amongst others, mistakes in the source data, errors induced by the OCR conversion or the manual mark-up of texts. To continuously improve the corpus, we would be grateful, if you could bring any errors you may discover to our attention by [creating an issue](https://github.com/Unity-Legal-Affairs/tota/issues).
 
-# License
-
-This project is distributed under the Creative Commons Attribution-NonCommercial 4.0 International license.
